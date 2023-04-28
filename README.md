@@ -9,6 +9,8 @@ Para ejecutar este proyecto se necesitan los siguientes requisitos:
 - Java 8 o superior
 - Maven 2.9.0 o superior
 - Una base de datos MySQL
+- Widfly 27.0.1
+- IntelliJ IDEA
 
 # Configuración de la base de datos
 
