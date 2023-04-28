@@ -20,6 +20,7 @@ Antes de ejecutar la aplicación, es necesario configurar la conexión a la base
 
 # Autor
 
-Este proyecto fue creado por Angelly Estrada y es propiedad del SENA
+Este proyecto fue creado por Angelly Estrada.
+Derechos reservados a Servicio Nacional de Aprendizaje (SENA).
 
 
