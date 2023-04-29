@@ -36,7 +36,7 @@ los resultados de una busqueda de Internet">
 <main class="form-signin w-100 m-auto">
     <form action="" method="post" >
         <img class="mb-4 " src="./img/user-login-icon-14.png" alt="MY APP" width="100" >
-        <h4 class="test-secondary">MY-APP</h4>
+        <h4 class="test-secondary">REGISTRATE</h4>
         <h1 class="h5 mb-3 fw-normal" > Ingreso</h1>
         <div class="form-floating" >
            <input type="text" class="form-control" id="floatingInput"
