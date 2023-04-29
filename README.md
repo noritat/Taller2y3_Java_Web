@@ -14,15 +14,15 @@ Para ejecutar este proyecto se necesitan los siguientes requisitos:
 
 # Configuración de la base de datos
 
-Antes de ejecutar la aplicación, es necesario configurar la conexión a la base de datos en el archivo application.properties. Este archivo se encuentra en la ruta src/main/resources y debe tener el siguiente contenido:
+Antes de ejecutar la aplicación, es necesario configurar la conexión a la base de datos en la carpeta Util dentro de esta en el archivo DbConnection debe tener el siguiente contenido:
 
 -  private static final String URL= "jdbcmysql://localhost:3306/my_app serverTimezone=America/Bogota";"
-- private static final String USER ="my_app_user";
-- private static final String PASS="my_app_password";
+- private static final String USER ="root";
+- private static final String PASS="";
 
 # Autor
 
-Este proyecto fue creado por Angelly Estrada.
+Este proyecto fue creado por Angely Estrada.
 Derechos reservados a Servicio Nacional de Aprendizaje (SENA).
 
 
