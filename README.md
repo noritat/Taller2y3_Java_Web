@@ -17,7 +17,7 @@ Para ejecutar este proyecto se necesitan los siguientes requisitos:
 Antes de ejecutar la aplicación, es necesario configurar la conexión a la base de datos en la carpeta Util dentro de esta en el archivo DbConnection debe tener el siguiente contenido:
 
 -  private static final String URL= "jdbcmysql://localhost:3306/my_app serverTimezone=America/Bogota";"
-- private static final String USER ="root";
+- private static final String USER ="My_app";
 - private static final String PASS="";
 
 # Autor
